@@ -1,0 +1,12 @@
+{
+  "title": "Bad Import",
+  "courseId": "PASTE_A_REAL_COURSE_ID",
+  "passingScore": 70,
+  "questions": [
+    {
+      "question": "Only one option?",
+      "options": ["A"],
+      "correctAnswers": ["A"]
+    }
+  ]
+}
