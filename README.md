@@ -283,3 +283,10 @@ This is non-negotiable per the brief.
 - Each feature lives on its own branch, for example `feature/auth`, `feature/quiz-import`, `feature/lesson-page`
 - Open a Pull Request and have at least one teammate review it before it is merged
 - Track what is in progress on a board (via Trello: https://trello.com/b/89bFHaKS/corelab)
+
+---
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
